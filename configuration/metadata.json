@@ -1,0 +1,10 @@
+{
+    "configuration_content" : {
+        "access_token" : {
+            "title" : "GitHub Access Token",
+            "type" : "text",
+            "default" : null,
+            "details" : "GitHub Access Token"
+        }
+    }
+}

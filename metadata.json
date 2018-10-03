@@ -1,0 +1,13 @@
+{
+    "name" : "GitHub",
+    "description" : "Provides an interface to the GitHub API v3",
+    "core" : {
+        "namespace" : "github",
+        "file" : "GitHub.php",
+        "class" : "GitHub"
+    },
+    "dependencies" : {
+        "system-packages" : [],
+        "packages" : []
+    }
+}
